@@ -5,6 +5,478 @@
       "PackagePath": "staticwebassets\\EmlakOffice_UI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\about.html",
+      "PackagePath": "staticwebassets\\city-real-estate\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\contact.html",
+      "PackagePath": "staticwebassets\\city-real-estate\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\contact.php",
+      "PackagePath": "staticwebassets\\city-real-estate\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\animate.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\colors.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\custom.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\slideshow.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\slideshow.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\css\\versions.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\css\\versions.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\city-real-estate\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\gallery.html",
+      "PackagePath": "staticwebassets\\city-real-estate\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\bg.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\gps.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\gps.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\logos\\logo-realestate.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\logos\\logo-realestate.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\logos\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\index.html",
+      "PackagePath": "staticwebassets\\city-real-estate\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\all.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\animate.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\animate.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\custom.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\hoverdir.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\hoverdir.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\jquery.vide.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\jquery.vide.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\map.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\portfolio.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\portfolio.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\retina.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\retina.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\js\\scroll.js",
+      "PackagePath": "staticwebassets\\city-real-estate\\js\\scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\properties.html",
+      "PackagePath": "staticwebassets\\city-real-estate\\properties.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\service.html",
+      "PackagePath": "staticwebassets\\city-real-estate\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\style.css",
+      "PackagePath": "staticwebassets\\city-real-estate\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\about_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\agent.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\agent.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\estate_01.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\estate_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\estate_02.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\estate_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\estate_03.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\estate_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\home_01.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\home_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\home_02.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\home_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\home_03.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\home_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\home_04.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\home_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\home_05.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\home_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\home_06.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\home_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\icon-01.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\icon-02.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\icon-03.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\icon-04.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\inner-bg.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\inner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\parallax_02.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\parallax_02.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\slider_01.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\slider_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\slider_02.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\slider_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\slider_03.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\slider_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\testi_01.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\testi_01.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\testi_02.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\testi_02.png"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\testi_03.png",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\testi_03.png"
+    },
+    {
       "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

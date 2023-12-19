@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+    @await Component.InvokeAsync("_HeaderViewPartial")
+<body class="realestate_version">
+
+    <!-- LOADER -->
+    <div id="preloader">
+        <span class="loader"><span class="loader-inner"></span></span>
+    </div><!-- end loader -->
+    <!-- END LOADER -->
+    @RenderBody()
+  
+
+    @await Component.InvokeAsync("_NavbarViewPartial")
+
+</body>
+</html>
