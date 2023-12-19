@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\emre_\OneDrive\Masaüstü\EmlakOffice_API\EmlakOffice_UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,8 +42,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Kategori/KategoriGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Kategori/KategoriOlustur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlPbHVzdHVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Profil/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_AdminPanelFooterViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUGFuZWxGb290ZXJWaWV3UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_AdminPanelHeadViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUGFuZWxIZWFkVmlld1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_AdminPanelNavbarViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUGFuZWxOYXZiYXJWaWV3UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_AdminPanelScriptViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUGFuZWxTY3JpcHRWaWV3UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_AdminPanelSidebarViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUGFuZWxTaWRlYmFyVmlld1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_AdminPanelSpinnerViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUGFuZWxTcGlubmVyVmlld1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_DefaultEmlakViewPartial/Default.cshtml]
@@ -56,6 +96,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_DefaultNavbarViewPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHROYXZiYXJWaWV3UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_DefaultPropertiesViewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRQcm9wZXJ0aWVzVmlld1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_DefaultScriptPageViewPartial/Default.cshtml]

@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_AdminPanelHeadViewPartial")
+
+<body>
+    <div class="container-xxl position-relative bg-white d-flex p-0">
+        @await Component.InvokeAsync("_AdminPanelSpinnerViewPartial")
+
+        <!-- Sidebar Start -->
+        @await Component.InvokeAsync("_AdminPanelSidebarViewPartial")
+        <!-- Sidebar End -->
+
+        <!-- Content Start -->
+        <div class="content">
+            <!-- Navbar Start -->
+            @await Component.InvokeAsync("_AdminPanelNavbarViewPartial")
+           
+            <!-- Navbar End -->
+
+            <!-- Blank Start -->
+            @RenderBody()
+            <!-- Blank End -->
+
+
+            <!-- Footer Start -->
+            @await Component.InvokeAsync("_AdminPanelFooterViewPartial")
+        
+            <!-- Footer End -->
+        </div>
+        <!-- Content End -->
+
+
+        <!-- Back to Top -->
+        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    </div>
+
+    <!-- JavaScript Libraries -->
+    @await Component.InvokeAsync("_AdminPanelScriptViewPartial")
+  
+</body>
+
+</html>
+@RenderBody()

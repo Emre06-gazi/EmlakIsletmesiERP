@@ -1,0 +1,48 @@
+﻿@model List<EmlakOffice_UI.Dtos.KategoriDtos.EmlakSonucDto>
+<div id="features" class="section wb">
+	<div class="container">
+		<div class="section-title row text-center">
+			<div class="col-md-8 col-md-offset-2">
+				<small>Tüm Harika Emlak Detayları</small>
+				<h3>Mülkler</h3>
+				<p class="lead">Burada tüm harika emlakları bulabilirsiniz.</p>
+			</div><!-- end col -->
+		</div><!-- end title -->
+
+		<hr class="invis">
+
+		<div class="row">
+			@foreach(var item in Model)
+			{
+			<div class="col-lg-4 col-md-6">
+				<div class="service-widget">
+					<div class="property-main">
+						<div class="property-wrap">
+							<figure class="post-media wow fadeIn">
+								<a href="@item.resmi" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+									<img style="height:230px;wight:700px;" src="@item.resmi" alt="" class="img-responsive">
+								<div class="label-inner">
+									<span class="label-status label">@item.tip</span>
+								</div>
+								<div class="price">
+										<span class="item-sub-price"> @item.fiyati ₺</span>
+								</div>
+							</figure>
+							<div class="item-body">
+								<h3>@item.basligi</h3>
+								<div class="info">
+										<p>@item.kIsim - @item.aciklama</p>
+								</div>
+								<div class="adderess">
+									<i class="fa fa-map-pin" aria-hidden="true"></i>
+									@item.adres @item.sehir
+								</div>
+							</div>
+						</div>
+					</div>
+				</div><!-- end service -->
+			</div>
+			}
+		</div><!-- end row -->
+	</div><!-- end container -->
+</div><!-- end section -->

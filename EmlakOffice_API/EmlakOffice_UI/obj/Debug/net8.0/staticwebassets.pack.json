@@ -393,6 +393,18 @@
       "PackagePath": "staticwebassets\\city-real-estate\\uploads\\agent.jpg"
     },
     {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\daire.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\daire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\erkek1.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\erkek1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\erkek2.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\erkek2.jpg"
+    },
+    {
       "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\estate_01.jpg",
       "PackagePath": "staticwebassets\\city-real-estate\\uploads\\estate_01.jpg"
     },
@@ -449,6 +461,10 @@
       "PackagePath": "staticwebassets\\city-real-estate\\uploads\\inner-bg.jpg"
     },
     {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\kadın1.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\kadın1.jpg"
+    },
+    {
       "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\parallax_02.png",
       "PackagePath": "staticwebassets\\city-real-estate\\uploads\\parallax_02.png"
     },
@@ -463,6 +479,10 @@
     {
       "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\slider_03.jpg",
       "PackagePath": "staticwebassets\\city-real-estate\\uploads\\slider_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\tarla.jpg",
+      "PackagePath": "staticwebassets\\city-real-estate\\uploads\\tarla.jpg"
     },
     {
       "Id": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\testi_01.png",
