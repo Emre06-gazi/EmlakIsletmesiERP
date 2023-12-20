@@ -1,6 +1,6 @@
 ﻿namespace EmlakOffice_UI.Dtos.KategoriDtos
 {
-    public class KategoriSonuc
+    public class KategoriSonucDto
     {
         public int KategoriId { get; set; }
         public string KIsim { get; set; }

@@ -34,12 +34,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Emlak/EmlakOlustur.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1sYWtcRW1sYWtPbHVzdHVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Emlak/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1sYWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Istatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXN0YXRpc3Rpa1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Kategori/Index.cshtml]
@@ -112,6 +124,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_HeaderViewPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRlclZpZXdQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_IlanPaneliView/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0lsYW5QYW5lbGlWaWV3XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/emre_/OneDrive/Masaüstü/EmlakOffice_API/EmlakOffice_UI/Views/Shared/Components/_NavbarViewPartial/Default.cshtml]

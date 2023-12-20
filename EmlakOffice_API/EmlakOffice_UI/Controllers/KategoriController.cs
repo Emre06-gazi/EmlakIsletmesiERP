@@ -21,7 +21,7 @@ namespace EmlakOffice_UI.Controllers
             if (responseMessage.IsSuccessStatusCode)
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
-                var values = JsonConvert.DeserializeObject<List<KategoriSonuc>>(jsonData); //Listeleme için deserialize
+                var values = JsonConvert.DeserializeObject<List<KategoriSonucDto>>(jsonData); //Listeleme için deserialize
                 return View(values);
             }
             return View();
