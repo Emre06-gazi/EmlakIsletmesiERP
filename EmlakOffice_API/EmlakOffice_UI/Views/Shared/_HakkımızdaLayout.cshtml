@@ -1,0 +1,64 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+@await Component.InvokeAsync("_HeaderViewPartial")
+<body class="realestate_version">
+
+    <!-- LOADER -->
+    <div id="preloader">
+        <span class="loader"><span class="loader-inner"></span></span>
+    </div><!-- end loader -->
+    <!-- END LOADER -->
+  
+    @await Component.InvokeAsync("_HakkımızdaPageHeaderViewPartial")
+
+    <div class="all-title-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Hakkımızda</h2>
+                    <!-- Breadcrumbs -->
+                    <nav id="breadcrumbs">
+                        <ul>
+                            <li><a href="/Default/Index/">AnaSayfa</a></li>
+                            <li>Hakkımızda</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+	<div class="about-box">
+		<div class="container">
+		
+
+			<hr class="hr1">
+
+			<div class="row">
+				<div class="col-md-6">
+					<div class="post-media wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+                        <img src="~/city-real-estate/uploads/about_bg.jpg" alt="" class="img-responsive">
+					</div><!-- end media -->
+				</div>
+                <div class="col-md-6">
+                    <div class="message-box right-ab">
+                        <h4>Ödüllü Gayrimenkul Şirketi</h4>
+                        <h2>E.K. Emlaka Hoşgeldiniz</h2>
+                        <p>45 yılı aşkın süredir sektörde lider firma ile ve uzman ekibimiz ie sizi en kolay yoldan mülk sahibi yapıyoruz.</p>
+                    </div>
+                </div>
+			</div>
+
+		</div>
+	</div>
+    @RenderBody()
+
+	
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+
+</body>
+</html>

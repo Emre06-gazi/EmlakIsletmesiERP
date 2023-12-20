@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_IletısımLayout.cshtml";
+}
+
+@await Component.InvokeAsync("_IletisimPageContactViewPartial")
+@await Component.InvokeAsync("_DefaultHappyCustomerViewPartial")
+@await Component.InvokeAsync("_DefaultFooterandCopryightViewPartial")
+@await Component.InvokeAsync("_DefaultScriptPageViewPartial")

@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+@await Component.InvokeAsync("_HeaderViewPartial")
+<body class="realestate_version">
+
+    <!-- LOADER -->
+    <div id="preloader">
+        <span class="loader"><span class="loader-inner"></span></span>
+    </div><!-- end loader -->
+    <!-- END LOADER -->
+    @await Component.InvokeAsync("_IlanPageHeadViewPartial")
+
+    <div class="all-title-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>İlanlar</h2>
+                    <!-- Breadcrumbs -->
+                    <nav id="breadcrumbs">
+                        <ul>
+                            <li><a href="/Default/Index/">Ana Sayfa</a></li>
+                            <li>İlanlar</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+
+
+</body>
+</html>

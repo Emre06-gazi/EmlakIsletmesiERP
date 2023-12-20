@@ -1,9 +1,14 @@
-﻿<header class="header header_style_01">
+﻿
+@{
+    Layout = null;
+}
+
+<header class="header header_style_01">
     <nav class="megamenu navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Gezinmeyi Değiştir</span>
+                    <span class="sr-only">Gezinmeyi değiştir</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -12,28 +17,21 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a class="active" href="/Default/Index/">Ana Sayfa</a></li>
+                    <li><a href="/Default/Index/">Ana Sayfa</a></li>
                     <li><a href="/Hakkımızda/Index/">Hakkımızda </a></li>
                     <li><a href="/Galeri/Index/">Galeri</a></li>
-                    <li><a href="/Ilan/Index/">İlanlar</a></li>
+                    <li><a class="active" href="/Ilan/Index/">İlanlar</a></li>
                     <li><a href="/Iletisim/Index/">İletişim</a></li>
                     <li class="social-links"><a href="#"><i class="fa fa-twitter global-radius"></i></a></li>
                     <li class="social-links"><a href="#"><i class="fa fa-facebook global-radius"></i></a></li>
                     <li class="social-links"><a href="#"><i class="fa fa-linkedin global-radius"></i></a></li>
                     <li class="search-option">
-                        <button class="search tran3s dropdown-toggle" id="searchDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                        </button>
-                        <form action="#" class="p-color-bg dropdown-menu tran3s text-center" aria-labelledby="searchDropdown" style="padding: 10px;">
-                            <div>
-                                <button type="submit" class="btn btn-light btn-radius btn-brd grd1" style="display: block;">Kayıt Ol</button>
-                            </div>
-                            <div>
-                                <button type="submit" class="btn btn-light btn-radius btn-brd grd1">Giriş Yap</button>
-                            </div>
+                        <button class="search tran3s dropdown-toggle" id="searchDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search" aria-hidden="true"></i></button>
+                        <form action="#" class="p-color-bg dropdown-menu tran3s" aria-labelledby="searchDropdown">
+                            <input type="text" placeholder="Ara....">
+                            <button class="p-color-bg"><i class="fa fa-search" aria-hidden="true"></i></button>
                         </form>
                     </li>
-
                 </ul>
             </div>
         </div>

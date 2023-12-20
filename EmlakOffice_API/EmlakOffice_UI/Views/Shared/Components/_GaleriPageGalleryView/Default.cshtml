@@ -1,0 +1,39 @@
+﻿@model List<EmlakOffice_UI.Dtos.KategoriDtos.EmlakSonucDto>
+
+<div id="gallery" class="section wb">
+    <div class="container">
+        <div class="section-title row text-center">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>Mülk Galerisi</h3>
+                <p class="lead">Burada ilanda bulunan bütün mülklerin fotoğrafını görüntüleyebilirsiniz.</p>
+            </div>
+        </div>
+		<hr class="invis">
+
+		<div class="row">
+			@if (Model != null)
+			{
+				foreach (var item in Model)
+				{
+					<div class="col-lg-4 col-md-6">
+						<div class="service-widget">
+							<div class="property-main">
+								<div class="property-wrap">
+									<figure class="post-media wow fadeIn">
+										<a href="@item.resmi" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+										<img style="height:230px;wight:700px;" src="@item.resmi" alt="" class="img-responsive">
+									</figure>
+								</div>
+							</div>
+						</div><!-- end service -->
+					</div>
+				}
+			}
+			else
+			{
+				<p>Veri bulunamadı!</p>
+			}
+		</div><!-- end row -->
+	</div><!-- end container -->
+    </div>
+</div>
