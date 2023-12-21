@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZZB9VQBG9dXhbC4G9oNGfIC6sVLXIzG8q1dZ0AwSaaY=",
+  "Hash": "Hcc0LJWIG99/3CCVToto9T3+YW526+tC0KyvXEnfBk0=",
   "Source": "EmlakOffice_UI",
   "BasePath": "_content/EmlakOffice_UI",
   "Mode": "Default",
@@ -1953,6 +1953,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\city-real-estate\\uploads\\daire.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\daire1.jpg",
+      "SourceId": "EmlakOffice_UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\",
+      "BasePath": "_content/EmlakOffice_UI",
+      "RelativePath": "city-real-estate/uploads/daire1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\city-real-estate\\uploads\\daire1.jpg"
     },
     {
       "Identity": "C:\\Users\\emre_\\OneDrive\\Masaüstü\\EmlakOffice_API\\EmlakOffice_UI\\wwwroot\\city-real-estate\\uploads\\erkek1.jpg",

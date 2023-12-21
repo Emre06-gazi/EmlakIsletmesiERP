@@ -44,5 +44,20 @@ namespace EmlakOffice_UI.Controllers
 
             return View();
         }
+        [HttpGet]
+        public async Task<IActionResult> Arama(string aramaTerimi)
+        {
+            var client = _httpClientFactory.CreateClient();
+            var responseMessage = await client.GetAsync($"https://localhost:7158/api/Emlak/Arama?aramaTerimi={aramaTerimi}");
+            
+            if (responseMessage.IsSuccessStatusCode)
+            {
+                var jsonData = await responseMessage.Content.ReadAsStringAsync();
+                var values = JsonConvert.DeserializeObject<List<EmlakSonucDto>>(jsonData); // Arama sonuçları için deserialize
+                return View("Index", values); // Index view'ine arama sonuçlarını gönder
+            }
+            
+            return View("Index", new List<EmlakSonucDto>()); // Hata durumunda veya sonuç yoksa boş liste gönder
+        }
     }
 }

@@ -20,19 +20,19 @@
                     <input type="text" asp-for="ilce" class="form-control" />
                     <br />
                     <label>Kategori</label>
-                   @Html.DropDownListFor(x=>x.kategoriId,(List<SelectListItem>)ViewBag.j, new {@class="form-control"})
+                    @Html.DropDownListFor(x => x.kategoriId, (List<SelectListItem>)ViewBag.j, new { @class = "form-control" })
                     <br />
                     <label>Fiyat</label>
                     <input type="text" asp-for="fiyati" class="form-control" />
                     <br />
                     <label>Tür</label>
                     <input type="text" asp-for="tip" class="form-control" />
-                    <br />  
-                    <label>Kapak Fotoğrafı</label>
-                    <input type="text" asp-for="resmi" class="form-control" />
+                    <br />
+                    <label for="image">Resim Seç</label>
+                    <input type="file" name="image" id="image" class="form-control">
                     <br />
                     <label>Adres</label>
-                    <textarea asp-for="adres" class="form-control" rows ="5"></textarea>
+                    <textarea asp-for="adres" class="form-control" rows="5"></textarea>
                     <br />
                     <button class="btn btn-primary">İlan Ekle</button>
                 </form>
